@@ -5,7 +5,8 @@ jupyter notebook --notebook-dir=D:/
 
 Navigate to this folder with anaconda prompt
 
-first time: > conda env create -f 0_master_env.yml
+first time:
+> conda env create -f master_env.yml
 
 > conda activate master
 
